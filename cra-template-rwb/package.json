@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-rwb",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "eslint"
+  ],
+  "description": "A custom React TypeScript template with extensive ESLint configuration",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reecewbourgeois/rwb-react-template.git",
+    "directory": "cra-template-rwb"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
